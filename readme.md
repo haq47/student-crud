@@ -3,7 +3,7 @@
 Pject for OOP. It's a crud system with Database helper methosThis is a learning purpose pro
 
 
-<img width="500" src="data.png">
+<img width="500" src="student-data.png">
 
 #### Features 
 - Student Add to Database
